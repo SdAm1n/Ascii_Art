@@ -25,7 +25,7 @@ $ make clean
 $ g++ filename.cpp -o filename `pkg-config --cflags --libs opencv4`
 $ ./filename 
 ```
-### Windows
+### How to run on Windows
 ```
 $ g++ filename.cpp -o filename `pkg-config --cflags --libs opencv4`
 $ filename or $ filename.exe
