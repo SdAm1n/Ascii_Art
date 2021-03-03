@@ -1,5 +1,5 @@
 # Ascii_Art
-Ascii Art using OpenCV with C++. This program manipulates pixels of an image by turning a pixel into ascii a character.
+Ascii Art using OpenCV with C++. This program manipulates pixels of an image by turning a pixel into a ascii character.
 
 * Requirement: OpenCV needs to be installed in your PC.
 
