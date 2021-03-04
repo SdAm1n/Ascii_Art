@@ -1,3 +1,6 @@
+/*This code is made available under the Creative Commons Zero 1.0 License 
+(https://creativecommons.org/publicdomain/zero/1.0)*/
+
 /*
     ASCII ART USING OPENCV WITH C++
     CREATED BY: sdam1n
