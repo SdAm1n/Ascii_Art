@@ -43,7 +43,7 @@ int main()
         for(int j=0;j<brightness_vector[i].size();j++)
         {
             int ascii_index = ceil(brightness_vector[i][j]/4); // mapping value to ascii_char string
-            cout << ascii_chars[ascii_index];   // 3 times because pixels are square and terminal char in rectangle
+            cout << ascii_chars[ascii_index];   // 3 times because pixels are square and terminal chars are rectangle
             cout << ascii_chars[ascii_index];
             cout << ascii_chars[ascii_index];
             
